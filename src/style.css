@@ -14,3 +14,9 @@ h1,
 h2 {
     color: #1c2d3e;
 }
+
+.sideContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
